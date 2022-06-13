@@ -1,6 +1,3 @@
-/* eslint-disable no-console */
-import React from 'react';
-
 type FunctionClickProps = {
   eventName: string;
 };
