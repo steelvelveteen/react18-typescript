@@ -1,11 +1,9 @@
 import './App.scss';
-import Greet from './Greet';
+import State from './State';
 
 const App = (): JSX.Element => (
   <div>
-    <Greet heroName="Superman" name="Clark">
-      This is children props
-    </Greet>
+    <State />
   </div>
 );
 
